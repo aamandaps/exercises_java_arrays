@@ -44,10 +44,34 @@ vendidos em 4 semanas. Calcular e exibir:
 2. Criar e carregar uma matriz [4][4] com valores aleatórios, sendo que a 
 diagonal principal terá seus dados carregados no programa segundo:
 
-1 | ... | ... | ...
---- | --- | --- | --- |
-... | 4 | ... | ...
-... | ... | 16 | ...
-... | ... | ... | 64
+| | | | |
+|---|---|---|---|
+| 1 | ... | ... | ... |
+| ... | 4 | ... | ... |
+| ... | ... | 16 | ... |
+| ... | ... | ... | 64 |
 
+ 3. Criar uma matriz [8][8] onde o programa irá carregar segundo:
 
+casa | 1 | 2 | 3 | 4 | ... | Exibir soma dos
+--- | --- | --- | --- | --- | --- | ----
+valor | 1 | 2 | 4 | 8 | ... | valores
+
+4. Criar uma matriz [8][8] inteiro e o programa irá carregar segundo:
+   
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 1 | 2 | 2 | 2 | 2 | 2 | 2 | 1 |
+| 1 | 2 | 3 | 3 | 3 | 3 | 2 | 1 |
+| 1 | 2 | 3 | 4 | 4 | 3 | 2 | 1 |
+| 1 | 2 | 3 | 4 | 4 | 3 | 2 | 1 |
+| 1 | 2 | 3 | 3 | 3 | 3 | 2 | 1 |
+| 1 | 2 | 2 | 2 | 2 | 2 | 2 | 1 |
+| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+5. Carregar códigos das peças em um tabuleiro de xadrez, onde:
+
+Código | 1 | 2 | 3 | 4 | 5 | 6 | 7
+--- | --- | --- | --- | --- | --- | --- | ---
+Peça | Peão | Torre | Bispo | Cavalo | Rainha | Rei | Vazio
